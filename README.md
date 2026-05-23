@@ -1,6 +1,6 @@
 ## Quick Start
 
-### With Docker (recommended)
+### With Docker
 
 ```bash
 cp .env.example .env  
